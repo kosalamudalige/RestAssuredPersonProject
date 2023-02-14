@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RestAPITestSuite" duration-ms="4300" started-at="2023-02-14T15:40:45 IST" finished-at="2023-02-14T15:40:50 IST">
+    <groups>
+    </groups>
+    <test name="RestAPITest" duration-ms="4300" started-at="2023-02-14T15:40:45 IST" finished-at="2023-02-14T15:40:50 IST">
+      <class name="amp.api.testcases.Test001_Get_All_Persons">
+        <test-method status="PASS" signature="setup()[pri:0, instance:amp.api.testcases.Test001_Get_All_Persons@33723e30]" name="setup" is-config="true" duration-ms="272" started-at="2023-02-14T15:40:45 IST" finished-at="2023-02-14T15:40:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAllPersons()[pri:0, instance:amp.api.testcases.Test001_Get_All_Persons@33723e30]" name="getAllPersons" is-config="true" duration-ms="3796" started-at="2023-02-14T15:40:46 IST" finished-at="2023-02-14T15:40:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllPersons -->
+        <test-method status="PASS" signature="checkResponseBody()[pri:0, instance:amp.api.testcases.Test001_Get_All_Persons@33723e30]" name="checkResponseBody" duration-ms="22" started-at="2023-02-14T15:40:49 IST" finished-at="2023-02-14T15:40:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseBody -->
+        <test-method status="PASS" signature="checkResponseTime()[pri:0, instance:amp.api.testcases.Test001_Get_All_Persons@33723e30]" name="checkResponseTime" duration-ms="2" started-at="2023-02-14T15:40:50 IST" finished-at="2023-02-14T15:40:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkResponseTime -->
+        <test-method status="PASS" signature="checkStatusCode()[pri:0, instance:amp.api.testcases.Test001_Get_All_Persons@33723e30]" name="checkStatusCode" duration-ms="0" started-at="2023-02-14T15:40:50 IST" finished-at="2023-02-14T15:40:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkStatusCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:amp.api.testcases.Test001_Get_All_Persons@33723e30]" name="tearDown" is-config="true" duration-ms="1" started-at="2023-02-14T15:40:50 IST" finished-at="2023-02-14T15:40:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- amp.api.testcases.Test001_Get_All_Persons -->
+    </test> <!-- RestAPITest -->
+  </suite> <!-- RestAPITestSuite -->
+</testng-results>

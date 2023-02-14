@@ -1,0 +1,1477 @@
+2023-02-13 23:53:31,781 +0530 [main] INFO  (Test001_Get_All_Persons.java:15) - *******Started get All Persons********
+2023-02-13 23:53:35,527 +0530 [main] INFO  (Test001_Get_All_Persons.java:24) - *******Checking response Body********
+2023-02-13 23:53:35,541 +0530 [main] INFO  (Test001_Get_All_Persons.java:26) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-13 23:53:35,547 +0530 [main] INFO  (Test001_Get_All_Persons.java:42) - *******Checking response Time********
+2023-02-13 23:53:35,547 +0530 [main] INFO  (Test001_Get_All_Persons.java:44) - Response Time==> 200
+2023-02-13 23:53:35,549 +0530 [main] INFO  (Test001_Get_All_Persons.java:33) - *******Checking response Code********
+2023-02-13 23:53:35,549 +0530 [main] INFO  (Test001_Get_All_Persons.java:35) - Response Code==> 200
+2023-02-14 09:11:46,644 +0530 [main] INFO  (Test001_Get_All_Persons.java:15) - *******Started get All Persons********
+2023-02-14 09:11:50,385 +0530 [main] INFO  (Test001_Get_All_Persons.java:24) - *******Checking response Body********
+2023-02-14 09:11:50,401 +0530 [main] INFO  (Test001_Get_All_Persons.java:26) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 09:11:50,405 +0530 [main] INFO  (Test001_Get_All_Persons.java:42) - *******Checking response Time********
+2023-02-14 09:11:50,406 +0530 [main] INFO  (Test001_Get_All_Persons.java:44) - Response Time==> 200
+2023-02-14 09:11:50,407 +0530 [main] INFO  (Test001_Get_All_Persons.java:33) - *******Checking response Code********
+2023-02-14 09:11:50,407 +0530 [main] INFO  (Test001_Get_All_Persons.java:35) - Response Code==> 200
+2023-02-14 10:22:31,963 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:22:35,696 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:22:35,708 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:22:35,717 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:22:35,718 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:22:35,719 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:22:35,719 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:22:35,721 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 10:23:27,553 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:23:31,238 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:23:31,251 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:23:31,263 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:23:31,263 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:23:31,264 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:23:31,264 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:23:31,266 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 10:25:44,840 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:25:48,575 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:25:48,590 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:25:48,603 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:25:48,603 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:25:48,605 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:25:48,605 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:25:48,606 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 10:26:28,136 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:26:31,779 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:26:31,793 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:26:31,803 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:26:31,803 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:26:31,805 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:26:31,805 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:26:31,807 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 10:27:38,615 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:27:42,431 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:27:42,444 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:27:42,455 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:27:42,455 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:27:42,456 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:27:42,456 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:27:42,457 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 10:33:44,565 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:33:48,229 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:33:48,241 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:33:48,253 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:33:48,253 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:33:48,255 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:33:48,255 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:33:48,257 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 10:34:42,373 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:34:46,066 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:34:46,080 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:34:46,091 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:34:46,091 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:34:46,092 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:34:46,093 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:34:46,094 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 10:35:53,392 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:35:57,038 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:35:57,052 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:35:57,061 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:35:57,061 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:35:57,063 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:35:57,063 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:35:57,064 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 10:37:58,363 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 10:38:02,006 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 10:38:02,019 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 10:38:02,033 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 10:38:02,033 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 10:38:02,035 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 10:38:02,035 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 10:38:02,036 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 12:29:06,883 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 12:31:11,240 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 12:31:14,922 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 12:31:14,936 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 12:31:14,948 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 12:31:14,949 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 12:31:14,951 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 12:31:14,951 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 12:31:14,952 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 12:39:58,154 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 12:40:01,918 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 12:40:01,933 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 12:40:01,943 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 12:40:01,943 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 12:40:01,944 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 12:40:01,944 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 12:40:01,945 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 12:55:00,744 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 12:55:04,455 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 12:55:04,466 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 12:55:04,476 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 12:55:04,477 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 12:55:04,479 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 12:55:04,479 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 12:55:04,481 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 13:08:21,878 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 13:08:25,636 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 13:08:25,648 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 13:08:25,659 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 13:08:25,660 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 13:08:25,662 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 13:08:25,662 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 13:08:25,664 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 13:13:44,505 +0530 [main] INFO  (Test003_Create_Person_XML.java:18) - *******Create a Person********
+2023-02-14 13:13:48,389 +0530 [main] INFO  (Test003_Create_Person_XML.java:34) - *******Checking response Body********
+2023-02-14 13:13:48,393 +0530 [main] INFO  (Test003_Create_Person_XML.java:36) - Response Body==> {}
+2023-02-14 13:13:48,396 +0530 [main] INFO  (Test003_Create_Person_XML.java:52) - *******Checking response Time********
+2023-02-14 13:13:48,397 +0530 [main] INFO  (Test003_Create_Person_XML.java:54) - Response Time==> 404
+2023-02-14 13:13:48,398 +0530 [main] INFO  (Test003_Create_Person_XML.java:43) - *******Checking response Code********
+2023-02-14 13:13:48,398 +0530 [main] INFO  (Test003_Create_Person_XML.java:45) - Response Code==> 404
+2023-02-14 13:13:48,402 +0530 [main] INFO  (Test003_Create_Person_XML.java:65) - *******Finished get All Persons********
+2023-02-14 13:14:52,362 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 13:14:55,996 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 13:14:56,007 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 13:14:56,017 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 13:14:56,017 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 13:14:56,018 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 13:14:56,019 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 13:14:56,020 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 13:50:47,059 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 13:50:50,856 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 13:50:50,869 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 13:50:50,878 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 13:50:50,878 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 13:50:50,879 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 13:50:50,879 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 13:50:50,880 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 14:02:02,215 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 14:02:05,941 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 14:02:05,952 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 14:02:05,956 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 14:02:05,956 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 14:02:05,958 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 14:02:05,958 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 14:02:05,960 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 14:25:10,250 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 14:25:14,083 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 14:25:14,096 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 14:25:14,098 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 14:25:14,098 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 14:25:14,098 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 14:25:14,098 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 14:25:14,099 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 14:25:37,143 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 14:25:40,896 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 14:25:40,911 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 14:25:40,911 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 14:25:40,911 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 14:25:40,911 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 14:25:40,911 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 14:25:40,911 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 14:31:22,626 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 14:31:26,421 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 14:31:26,443 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 14:31:26,447 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 14:31:26,447 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 14:31:26,447 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 14:31:26,447 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 14:31:26,447 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 14:32:08,151 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 14:32:11,972 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 14:32:11,990 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 14:32:11,990 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 14:32:11,990 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 14:32:11,990 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 14:32:12,004 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 14:32:12,005 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 14:33:15,657 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 14:33:19,402 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 14:33:19,424 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 14:33:19,433 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 14:33:19,433 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 14:33:19,433 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 14:33:19,436 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 14:33:19,436 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 14:40:21,945 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 14:40:25,758 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 14:40:25,774 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 14:40:25,774 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 14:40:25,774 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 14:40:25,789 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 14:40:25,789 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 14:40:25,789 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 15:31:28,307 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 15:31:32,141 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 15:31:32,149 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 15:31:32,164 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 15:31:32,164 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 15:31:32,164 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 15:31:32,164 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 15:31:32,167 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 15:35:48,228 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 15:35:51,983 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 15:35:51,999 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 15:35:52,005 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 15:35:52,012 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 15:35:52,012 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 15:35:52,012 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 15:35:52,012 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 15:38:48,401 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 15:38:52,190 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 15:38:52,207 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 15:38:52,221 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 15:38:52,221 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 15:38:52,222 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 15:38:52,222 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 15:38:52,222 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 15:40:46,192 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 15:40:49,997 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 15:40:50,009 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 15:40:50,026 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 15:40:50,026 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 15:40:50,028 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 15:40:50,028 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 15:40:50,031 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 15:41:01,662 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 15:41:05,442 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 15:41:05,458 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 15:41:05,468 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 15:41:05,469 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 15:41:05,471 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 15:41:05,471 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 15:41:05,472 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********
+2023-02-14 15:41:18,254 +0530 [main] INFO  (Test001_Get_All_Persons.java:16) - *******Started get All Persons********
+2023-02-14 15:41:22,062 +0530 [main] INFO  (Test001_Get_All_Persons.java:25) - *******Checking response Body********
+2023-02-14 15:41:22,077 +0530 [main] INFO  (Test001_Get_All_Persons.java:27) - Response Body==> [
+  {
+    "firstName": "Kosala",
+    "lastName": "Mudalige",
+    "age": 1,
+    "id": 1,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Vimukthi",
+    "lastName": "Randika",
+    "age": 2,
+    "id": 2,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Thomas",
+    "age": 3,
+    "id": 3,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Mary",
+    "lastName": "Jane",
+    "age": 1,
+    "id": 4,
+    "address": "SL",
+    "phoneNumber": "077"
+  },
+  {
+    "firstName": "Damith",
+    "lastName": "Chinthaka",
+    "age": 1,
+    "id": 5,
+    "address": "SL",
+    "phoneNumber": "077"
+  }
+]
+2023-02-14 15:41:22,077 +0530 [main] INFO  (Test001_Get_All_Persons.java:43) - *******Checking response Time********
+2023-02-14 15:41:22,077 +0530 [main] INFO  (Test001_Get_All_Persons.java:45) - Response Time==> 200
+2023-02-14 15:41:22,077 +0530 [main] INFO  (Test001_Get_All_Persons.java:34) - *******Checking response Code********
+2023-02-14 15:41:22,077 +0530 [main] INFO  (Test001_Get_All_Persons.java:36) - Response Code==> 200
+2023-02-14 15:41:22,077 +0530 [main] INFO  (Test001_Get_All_Persons.java:56) - *******Finished get All Persons********

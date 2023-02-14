@@ -1,0 +1,4 @@
+amp\api\testcases\Test001_Get_All_Persons.class
+amp\api\testcases\Test003_Create_Person_XML.class
+amp\api\base\TestBase.class
+amp\api\testcases\Test002_Create_Person.class

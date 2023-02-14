@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RestAPITestSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="amp.api.utilities.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="RestAPITest(failed)">
+    <classes>
+      <class name="amp.api.testcases.Test001_Get_All_Persons">
+        <methods>
+          <include name="getAllPersons"/>
+          <include name="tearDown"/>
+          <include name="checkResponseBody"/>
+          <include name="checkResponseTime"/>
+          <include name="setup"/>
+          <include name="checkStatusCode"/>
+        </methods>
+      </class> <!-- amp.api.testcases.Test001_Get_All_Persons -->
+    </classes>
+  </test> <!-- RestAPITest(failed) -->
+</suite> <!-- Failed suite [RestAPITestSuite] -->
